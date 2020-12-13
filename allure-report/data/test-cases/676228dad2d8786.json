@@ -1,0 +1,68 @@
+{
+  "uid" : "676228dad2d8786",
+  "name" : "TC_007\tTo verify that login fails",
+  "fullName" : "Login - LetCode.TC_007\tTo verify that login fails",
+  "historyId" : "3f5f56731a19111495a4014cc1e6c092",
+  "time" : {
+    "start" : 1606390085866,
+    "stop" : 1606390103482,
+    "duration" : 17616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "218a3e3797981170",
+      "name" : "Screenshot",
+      "source" : "218a3e3797981170.png",
+      "type" : "image/png",
+      "size" : 170017
+    }, {
+      "uid" : "8eab3acd15beaac0",
+      "name" : "Screenshot",
+      "source" : "8eab3acd15beaac0.png",
+      "type" : "image/png",
+      "size" : 168243
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login - LetCode"
+  }, {
+    "name" : "testClass",
+    "value" : "Login - LetCode"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_007\tTo verify that login fails"
+  }, {
+    "name" : "package",
+    "value" : "Login - LetCode"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "676228dad2d8786.json",
+  "parameterValues" : [ ]
+}

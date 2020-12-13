@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Login - LetCode",
+    "children" : [ {
+      "name" : "TC_005\tTo verify that user can sign in successfully",
+      "uid" : "f39fae0fb2ab62d8",
+      "parentUid" : "4aa5579695b872f2b10c0b157eb0be0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606390055861,
+        "stop" : 1606390067832,
+        "duration" : 11971
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC_006\tTo verify that login fails",
+      "uid" : "978db25f473d3e2d",
+      "parentUid" : "4aa5579695b872f2b10c0b157eb0be0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606390067832,
+        "stop" : 1606390085866,
+        "duration" : 18034
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC_007\tTo verify that login fails",
+      "uid" : "676228dad2d8786",
+      "parentUid" : "4aa5579695b872f2b10c0b157eb0be0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606390085866,
+        "stop" : 1606390103482,
+        "duration" : 17616
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4aa5579695b872f2b10c0b157eb0be0c"
+  } ]
+}

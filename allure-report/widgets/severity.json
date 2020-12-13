@@ -1,0 +1,31 @@
+[ {
+  "uid" : "676228dad2d8786",
+  "name" : "TC_007\tTo verify that login fails",
+  "time" : {
+    "start" : 1606390085866,
+    "stop" : 1606390103482,
+    "duration" : 17616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f39fae0fb2ab62d8",
+  "name" : "TC_005\tTo verify that user can sign in successfully",
+  "time" : {
+    "start" : 1606390055861,
+    "stop" : 1606390067832,
+    "duration" : 11971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "978db25f473d3e2d",
+  "name" : "TC_006\tTo verify that login fails",
+  "time" : {
+    "start" : 1606390067832,
+    "stop" : 1606390085866,
+    "duration" : 18034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

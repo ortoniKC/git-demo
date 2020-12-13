@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 26 16:57:47 IST 2020","Thu Nov 26 16:58:05 IST 2020","18034","","Login - LetCode","","Login - LetCode","TC_006	To verify that login fails","TC_006	To verify that login fails",""
+"passed","Thu Nov 26 16:57:35 IST 2020","Thu Nov 26 16:57:47 IST 2020","11971","","Login - LetCode","","Login - LetCode","TC_005	To verify that user can sign in successfully","TC_005	To verify that user can sign in successfully",""
+"passed","Thu Nov 26 16:58:05 IST 2020","Thu Nov 26 16:58:23 IST 2020","17616","","Login - LetCode","","Login - LetCode","TC_007	To verify that login fails","TC_007	To verify that login fails",""
